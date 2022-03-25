@@ -1,4 +1,4 @@
-package com.solid.srp;
+package com.solid.singleResponsabilityPrinciple;
 
 public class BankService {
 

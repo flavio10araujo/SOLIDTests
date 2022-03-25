@@ -1,4 +1,4 @@
-package com.solid.lsp;
+package com.solid.liskovSubstitutionPrinciple;
 
 public interface PostMediaManager {
 

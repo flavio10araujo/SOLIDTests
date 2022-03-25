@@ -1,4 +1,4 @@
-package com.solid.isp;
+package com.solid.interfaceSegregationPrinciple;
 
 public class GooglePay implements UPIPayments, CashBackManager {
 

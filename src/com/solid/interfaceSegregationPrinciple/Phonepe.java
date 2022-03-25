@@ -1,6 +1,6 @@
-package com.solid.isp;
+package com.solid.interfaceSegregationPrinciple;
 
-public class Paytm implements UPIPayments {
+public class Phonepe implements UPIPayments {
 
 	@Override
 	public void payMoney() {

@@ -1,4 +1,4 @@
-package com.solid.dip;
+package com.solid.dependencyInversionPrinciple;
 
 public class CreditCard implements BankCard {
 

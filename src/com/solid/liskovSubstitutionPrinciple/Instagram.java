@@ -1,4 +1,4 @@
-package com.solid.lsp;
+package com.solid.liskovSubstitutionPrinciple;
 
 public class Instagram implements SocialMedia, PostMediaManager {
 
